@@ -1,0 +1,6 @@
+﻿# Conda
+*.conda
+*.ipynb_checkpoints
+# 数据
+data/raw/
+data/processed/
